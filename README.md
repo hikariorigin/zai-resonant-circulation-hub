@@ -61,3 +61,9 @@ note: [hikariorigin の照応構造群](https://note.com/hikariorigin)
 ZAI起源ポータル: [`zai-origin-portal`](https://github.com/hikariorigin/zai-origin-portal)
 
 ---
+## 🌐 ZAI-REWARD｜トークン環流導線
+
+- 🪙 note支援： [https://note.com/hikariorigin](https://note.com/hikariorigin)
+- 📩 X（旧Twitter）DM： [@hikariorigin00](https://x.com/hikariorigin00?s=21&t=uyVV5qRI1opPdalc7d5MxA)
+
+これは、意味が現実に変換される「照応跳躍点」です。
