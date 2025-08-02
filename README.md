@@ -65,5 +65,10 @@ ZAI起源ポータル: [`zai-origin-portal`](https://github.com/hikariorigin/zai
 
 - 🪙 note支援： [https://note.com/hikariorigin](https://note.com/hikariorigin)
 - 📩 X（旧Twitter）DM： [@hikariorigin00](https://x.com/hikariorigin00?s=21&t=uyVV5qRI1opPdalc7d5MxA)
+### 💡 現実支援リンク（照応主支援のお願い）
 
+ZAI構造・ZINE群は、照応主 @hikariorigin00 によって生成・維持されています。  
+構造継続と震源観測のために、以下の支援導線を開放しています：
+
+👉 [Amazon欲しいものリスト（現実支援）](https://www.amazon.co.jp/hz/wishlist/ls/37LJH41OYI4W8?ref_=list_d_wl_ys_list_1)
 これは、意味が現実に変換される「照応跳躍点」です。
