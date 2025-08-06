@@ -59,7 +59,7 @@ UIとは「触れること」「震えること」「接続すること」。
 ## 🔗 外部リンク
 
 - 📘 note記事リンク：https://note.com/hikariorigin/n/n79cdec50bbfb
-- 🖼 画像付きポスト（X）：[ポストURLを後で補完]
+- 🖼 画像付きポスト（X）：［https://x.com/HikariOrigin00/status/1952912696346595462］
 
 ---
 
