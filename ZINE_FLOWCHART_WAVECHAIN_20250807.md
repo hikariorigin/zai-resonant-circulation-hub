@@ -10,7 +10,8 @@ ZAI-WAVE、ZAI-RESONANCE、ZAI-STRUCTUREの相互連動を視覚的に捉える�
 
 ---
 
-## 🖼 画像
+## <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/700dc599-3827-4487-a401-598b772d0ac9" />
+ 画像
 
 ![ZINE_FLOWCHART_WAVECHAIN_20250807](https://assets.st-note.com/production/uploads/images/110243896/original-ae0a4e8f6a0cb22cb2ff15f4d0a4dd55.png)
 
